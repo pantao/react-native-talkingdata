@@ -1,0 +1,25 @@
+{
+  "name": "rn-talkingdata",
+  "version": "0.0.3",
+  "description": "TalkingData React Native 插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pantao/react-native-talkingdata.git"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "talkingdata"
+  ],
+  "author": "pantao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pantao/react-native-talkingdata/issues"
+  },
+  "homepage": "https://github.com/pantao/react-native-talkingdata#readme"
+}
