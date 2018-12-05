@@ -1,6 +1,6 @@
 {
   "name": "rn-talkingdata",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "TalkingData React Native 插件",
   "main": "index.js",
   "scripts": {
